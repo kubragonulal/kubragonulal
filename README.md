@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=500&color=21F746&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Kübra.;Welcome+to+my+GitHub+profile!" alt="kubra" /></p>
+
+
+![](https://komarev.com/ghpvc/?username=kubragonulal&style=flat&color=21F746&label=Visitors)
+
+
 <!--
 **kubragonulal/kubragonulal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
