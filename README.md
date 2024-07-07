@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <b>👋 Hello!</b>
 
-I am Kübra Gönülal, a Junior Frontend Developer with skills in creating stylish and modern user interfaces. I really enjoy designing interfaces. My goal is to constantly improve my skills and contribute to meaningful projects that make a difference.
+I'm Kübra Gönülal, a Junior Frontend Developer with skills in creating stylish and modern user interfaces. I really enjoy designing interfaces. My goal is to constantly improve my skills and contribute to meaningful projects that make a difference.
 
 <h2><b>Skills and Technologies</b></h2>
 JavaScript and TypeScript: Creating dynamic, type-safe applications
