@@ -70,10 +70,6 @@ I am open to new opportunities and collaborations. If you're looking for a passi
   <a href="https://x.com/Kubragonulal1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-
-
-  [![Kubra's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
   <a href=".endlessea" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
@@ -81,4 +77,9 @@ I am open to new opportunities and collaborations. If you're looking for a passi
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
+</br>
+
+![Kubra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubragonulal&show_icons=true&bg_color=00000000)
+
+
 
